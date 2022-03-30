@@ -1,5 +1,6 @@
 mysql -u root -p
 Пароль: 11111111
+
  
 new test
 
