@@ -8,4 +8,8 @@ commit test
 
 new branch line
 
+<<<<<<< HEAD
 new line edit 2022
+=======
+new line edit
+>>>>>>> 603676e4c3c566be3d0e698954d4fe0cdfe5eff7
